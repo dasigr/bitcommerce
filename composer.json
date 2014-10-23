@@ -1,6 +1,6 @@
 {
-    "name": "btp/composer-packages",
-    "description": "Composer packages for unit testing",
+    "name": "dasigr/bitcommerce",
+    "description": "Commerce Website for Bitcoin",
     "keywords": ["phpunit"],
     "license": "GNU GPL v2",
     "require": {
