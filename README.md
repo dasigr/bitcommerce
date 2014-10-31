@@ -1,4 +1,4 @@
-bitcommerce
+BitCommerce
 ===========
 
 Commerce Website for Bitcoin
